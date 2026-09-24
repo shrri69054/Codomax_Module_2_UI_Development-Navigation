@@ -95,4 +95,4 @@ Home ──(+ button)──▶ Add Task
 ## Author
 
 **YOUR NAME**
-[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · [GitHub](https://github.com/YOUR-USERNAME)
+[LinkedIn](https://www.linkedin.com/in/shrrivathsan-s-014961320/) · [GitHub](https://github.com/shrri69054)
