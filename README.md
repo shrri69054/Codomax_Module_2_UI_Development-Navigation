@@ -94,5 +94,5 @@ Home ──(+ button)──▶ Add Task
 
 ## Author
 
-**YOUR NAME**
+**SHRRIVATHSAN S**
 [LinkedIn](https://www.linkedin.com/in/shrrivathsan-s-014961320/) · [GitHub](https://github.com/shrri69054)
